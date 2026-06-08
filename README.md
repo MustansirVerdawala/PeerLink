@@ -229,17 +229,7 @@ This project provided practical experience with:
 ## 📎 Authors
 
 **Mustansir Verdawala**
-Toronto Metropolitan University
 
 **Harsh Solanki**
-Toronto Metropolitan University
 
 ---
-
-## 📚 Course Information
-
-**COE768 – Computer Networks**
-Department of Electrical, Computer, and Biomedical Engineering
-Toronto Metropolitan University
-
-**Instructor:** Dr. Cungang Yang
